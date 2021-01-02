@@ -1,10 +1,4 @@
 # VQE_H2
-<object data="https://github.com/eraraya-ricardo/VQE_H2/blob/main/diagram_hibrid.pdf" type="application/pdf" width="1400px" height="700px">
-    <embed src="https://github.com/eraraya-ricardo/VQE_H2/blob/main/diagram_hibrid.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/eraraya-ricardo/VQE_H2/blob/main/diagram_hibrid.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 ![Variational Quantum Eigensolver Flowchart](https://github.com/eraraya-ricardo/VQE_H2/blob/main/diagram_hibrid.png)
 
 Exploring the Variational Quantum Eigensolver (VQE) algorithm for estimating the ground state energy and wave function for H<sub>2</sub> molecule. As a comparison, numerical simulations with Full CI method were carried out. This is a more in-depth review of the [VQE demo by PennyLane](https://pennylane.ai/qml/demos/tutorial_vqe.html)
