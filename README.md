@@ -1,2 +1,2 @@
 # VQE_H2
-VQE algorithm for estimating the ground state energy and wave function for H2 molecule.
+Exploring the Variational Quantum Eigensolver (VQE) algorithm for estimating the ground state energy and wave function for H_2 molecule.
