@@ -6,3 +6,5 @@ The motivation, theory, simulation design, and results can be read (in Indonesia
 
 The [PennyLane](https://pennylane.ai/) package is used as the quantum programming framework, [PySCF](https://sunqm.github.io/pyscf/) is used for the Full CI simulations. <br>
 The ![equation](https://latex.codecogs.com/gif.latex?\LaTeX) (Overleaf) template, [quantum-plots.ipynb](https://github.com/eraraya-ricardo/VQE_H2/blob/main/quantum-plots.ipynb), and [quantum-plots.mplstyle](https://github.com/eraraya-ricardo/VQE_H2/blob/main/quantum-plots.mplstyle) were provided by the [Quantum Journal](https://quantum-journal.org/) [GitHub repository](https://github.com/quantum-journal/quantum-journal).
+
+This work is done as a submission for the Advanced Quantum Mechanics class' final project.
